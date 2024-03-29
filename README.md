@@ -7,7 +7,8 @@
 
 <h3>Context and introduction to the project:</h3>
 
-EThis project consists of a **ETL** (Extraction, Transformation, Loading) and **EDA** (Exploratory Data Analysis) process of a dataset that contains consumer's thought and the star rating of car manufacturer/model/type, from Edmunds (buying, selling and reviews of cars platform). This dataset contains reviews from January 30th, 2002, to September 19th, 2018.
+EThis project consists of a **ETL** (Extraction, Transformation, Loading) and **EDA** (Exploratory Data Analysis) process of a dataset that contains consumer's thought and the star rating of car manufacturer/model/type, from Edmunds (buying, selling and reviews of cars platform). This dataset contains reviews from January 30th, 2002, to September 19th, 2018.  
+⚠️ Datasets have not been uploaded due to GitHub storage limitations.
 
 <h3>Project steps:</h3>
 
@@ -46,6 +47,7 @@ Python with libraries like Pandas, re, os, csv, Matplotlib and Seaborn.
 - Review_Title: title of the review.
 
 - Review: main content of the review.
+
 
 
 <hr/>
